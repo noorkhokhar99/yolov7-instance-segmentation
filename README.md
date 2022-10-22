@@ -37,5 +37,7 @@ python segment/predict.py --weights yolov7-seg.pt --source "videopath.mp4" --trk
 
 ### RESULTS
 
+<img src="https://github.com/noorkhokhar99/yolov7-instance-segmentation/blob/main/Screen%20Shot%201444-03-26%20at%207.04.59%20PM.png">
+
 
 

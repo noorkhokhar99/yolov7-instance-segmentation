@@ -12,20 +12,8 @@ git clone https://github.com/noorkhokhar99/yolov7-instance-segmentation.git
 ```
 cd yolov7-segmentation
 ```
-- Create a virtual envirnoment (Recommended, If you dont want to disturb python packages)
-```
-### For Linux Users
-python3 -m venv yolov7seg
-source yolov7seg/bin/activate
 
-### For Window Users
-python3 -m venv yolov7seg
-cd yolov7seg
-cd Scripts
-activate
-cd ..
-cd ..
-```
+
 - Upgrade pip with mentioned command below.
 ```
 pip install --upgrade pip
@@ -34,7 +22,7 @@ pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-- Download weights from [link](https://github.com/RizwanMunawar/yolov7-segmentation/releases/download/yolov7-segmentation/yolov7-seg.pt) and store in "yolov7-segmentation" directory.
+- Download weights from [link]() and store in "yolov7-segmentation" directory.
 
 - Run the code with mentioned command below.
 ```

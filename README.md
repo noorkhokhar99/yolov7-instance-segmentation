@@ -22,7 +22,7 @@ pip install --upgrade pip
 ```
 pip install -r requirements.txt
 ```
-- Download weights from [link]() and store in "yolov7-segmentation" directory.
+- Download weights from [link](https://github.com/noorkhokhar99/yolov7/blob/main/yolov7-seg.pt) and store in "yolov7-segmentation" directory.
 
 - Run the code with mentioned command below.
 ```
